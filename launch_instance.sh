@@ -7,3 +7,4 @@ aws ec2 run-instances \
   --security-group-ids sg-0f6e24df4b5984210 \
   --subnet-id subnet-02e26c30fc87b14ea\
   --region us-east-1
+  exit
